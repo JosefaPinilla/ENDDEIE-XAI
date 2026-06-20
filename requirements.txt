@@ -1,0 +1,18 @@
+# manipulacion de datos y carga de archivos spss
+pandas>=2.0.0
+numpy>=1.24.0
+pyreadstat>=1.2.0
+
+# modelamiento predictivo (caja negra)
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# inteligencia artificial explicable (xai)
+shap>=0.42.0
+lime>=0.2.0
+
+# visualizacion y jupyter
+matplotlib>=3.7.0
+seaborn>=0.12.0
+ipykernel
