@@ -1,0 +1,9 @@
+caracteristica;peso_impacto
+3.20 < protagonismo_estudiantil <= 3.60;0,361144452590495
+uso_internet_escolar <= 2.50;-0,11588253602637186
+estrato_analitico > 2.00;-0,0600325445142321
+4.00 < habilidades_digitales_basicas <= 4.44;-0,01802999352672112
+2.17 < motivacion_creacion_tic <= 2.83;-0,014996320986369372
+dependencia <= 0.00;-0,010998311798246846
+3.00 < actividades_digitales_aula <= 3.50;-0,002787825418131018
+2.50 < habilidades_digitales_avanzadas <= 3.50;0,00203511189867946
